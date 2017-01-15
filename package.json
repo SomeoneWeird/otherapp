@@ -12,7 +12,6 @@
   "author": "Adam Brady <adam@boxxen.org>",
   "license": "MIT",
   "dependencies": {
-    "phantom": "^3.2.1",
-    "request": "^2.79.0"
+    "phantom": "^3.2.1"
   }
 }
