@@ -1,6 +1,6 @@
 {
   "name": "otherapp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Automated otherapp.bin downloader",
   "main": "lib/index.js",
   "bin": {
