@@ -24,7 +24,7 @@ let regions = [
 
 if (!model || !version || !region || !~regions.indexOf(region) || !~models.indexOf(model)) {
   console.error('usage: otherapp <model> <version> <region>')
-  console.error('eg.    otherapp n3ds 11.2.0-39 eur')
+  console.error('eg.    otherapp n3ds 11.15.0-47 eur')
   console.error('')
   console.error('valid models: n3ds, o3ds, 2ds')
   console.error('valid regions: usa, eur, jpn, kor')
